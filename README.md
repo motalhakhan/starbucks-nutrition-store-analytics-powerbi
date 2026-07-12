@@ -2,7 +2,7 @@
 
 An end-to-end Power BI dashboard built from scratch using real Starbucks nutritional and global store location data. This project analyzes 240+ beverages across calories, sugar, caffeine, and protein content, alongside Starbucks' global store footprint across 13,000+ locations.
 
-
+![Dashboard Preview](assets/dashboard_preview.png)
 
 📌 Project Overview
 
@@ -54,12 +54,18 @@ Use the Protein Range slider and Beverage Prep dropdown to explore the data inte
 
 starbucks-powerbi-dashboard/
 │
+
 ├── data/
+
 │   ├── starbucks.csv          # Beverage nutrition dataset
+
 │   └── directory.csv          # Global store directory dataset
+
 ├── Starbucks_Dashboard.pbix   # Power BI report file
+
 ├── assets/
 │   └── dashboard_preview.png  # Dashboard screenshot
+
 └── README.md
 
 👤 About Me
